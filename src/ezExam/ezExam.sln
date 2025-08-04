@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{DC37ADC4-BB84-435F-ADF3-DF0E9EB3E581}"
 EndProject
@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "ServerApp\ServerApp.csproj", "{83E1CC24-6316-41E0-9FB4-40B3FFA52695}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{8450983F-3836-441B-8E77-0025CA80C45D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,16 +31,16 @@ Global
 		{FBBF0E2F-4B88-4A99-ABFF-B100BCEC0171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBBF0E2F-4B88-4A99-ABFF-B100BCEC0171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBF0E2F-4B88-4A99-ABFF-B100BCEC0171}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83E1CC24-6316-41E0-9FB4-40B3FFA52695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83E1CC24-6316-41E0-9FB4-40B3FFA52695}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83E1CC24-6316-41E0-9FB4-40B3FFA52695}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83E1CC24-6316-41E0-9FB4-40B3FFA52695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8450983F-3836-441B-8E77-0025CA80C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8450983F-3836-441B-8E77-0025CA80C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8450983F-3836-441B-8E77-0025CA80C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8450983F-3836-441B-8E77-0025CA80C45D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{83E1CC24-6316-41E0-9FB4-40B3FFA52695} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8450983F-3836-441B-8E77-0025CA80C45D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4E8A52F-3CB2-420E-9400-F0CA52E89ABD}
